@@ -16,3 +16,22 @@ To Track the history
 
 
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/88dfa42b-76d2-414b-9a36-fa918e3775ac" />
+
+
+
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/6b09004e-1d3f-42fc-9e41-4817fdcae3ee" />
+
+Clone  & Status
+git clone 
+
+
+
+
+
+Status
+
+To check your hiddern file
+
+ls -a
+
+
